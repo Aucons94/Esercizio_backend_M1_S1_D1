@@ -1,0 +1,7 @@
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_1_pratica\Pratica_D1\Pratica_D1\obj\Debug\Pratica_D1.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_1_pratica\Pratica_D1\Pratica_D1\obj\Debug\Pratica_D1.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_1_pratica\Pratica_D1\Pratica_D1\bin\Debug\Pratica_D1.exe.config
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_1_pratica\Pratica_D1\Pratica_D1\bin\Debug\Pratica_D1.exe
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_1_pratica\Pratica_D1\Pratica_D1\bin\Debug\Pratica_D1.pdb
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_1_pratica\Pratica_D1\Pratica_D1\obj\Debug\Pratica_D1.exe
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_1_pratica\Pratica_D1\Pratica_D1\obj\Debug\Pratica_D1.pdb
